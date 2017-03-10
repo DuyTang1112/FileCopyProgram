@@ -1,2 +1,2 @@
-File Copy Program using multi threading /n
-Developed by me and Dat Tran
+File Copy Program using multi threading 
+\nDeveloped by me and Dat Tran
